@@ -69,9 +69,6 @@ public class MyWidgetConfigureActivity extends Activity {
         prefs.apply();
     }
 
-    // Read the prefix from the SharedPreferences object for this widget.
-    // If there is no preference saved, get the default from a resource
-
     /**
      * Carga la preferencia de un widget.
      *
